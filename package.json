@@ -1,5 +1,5 @@
 {
-  "name": "NGcm",
+  "name": "ngcm",
   "version": "0.0.1",
   "description": "Simple Node JS Library For Google Cloud Messaging",
   "main": "index.js",
