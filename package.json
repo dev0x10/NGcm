@@ -22,7 +22,7 @@
   ],
   "author": "dev0x10",
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "unirest": "~0.1.0"
   }
 }
