@@ -1,0 +1,28 @@
+{
+  "name": "NGcm",
+  "version": "0.0.1",
+  "description": "Simple Node JS Library For Google Cloud Messaging",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dev0x10/NGcm.git"
+  },
+  "keywords": [
+    "gcm",
+    "google",
+    "message",
+    "cloud",
+    "message",
+    "google",
+    "cloud",
+    "message"
+  ],
+  "author": "dev0x10",
+  "license": "MIT",
+  "devDependencies": {
+    "unirest": "~0.1.0"
+  }
+}
