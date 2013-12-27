@@ -1,6 +1,6 @@
 {
   "name": "ngcm",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Simple Node JS Library For Google Cloud Messaging",
   "main": "index.js",
   "scripts": {
